@@ -4,7 +4,10 @@ echo "For multiple word queries use underscore in place of space"
 echo "Installing command line utility dafaq and whats"
 sudo cp ./dafaq /usr/bin/dafaq
 sudo cp ./dafaq /usr/bin/whats
-echo "."
+sudo mkdir ~/Sam
+sudo cp ./Sam.class ~/Sam/Sam.class
+sudo cp ./ServerCode.class ~/Sam/ServerCode.class
+sudo cp ./ServerCode\$1.class ~/Sam/ServerCode\$1.class
 echo "."
 echo "."
 echo "."

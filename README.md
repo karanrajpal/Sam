@@ -4,7 +4,8 @@ Non-Mac System
 1)Open up the file dafaq in your favorite text editor
 
 2) Comment out the line 
-say $out 
+
+"say $out"
 
 with a #
 

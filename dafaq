@@ -1,0 +1,6 @@
+#!/bin/sh
+out=$(java -cp ~/Sam Sam $1)
+echo "\n\n"
+echo $out
+echo "\n\n"
+say $out

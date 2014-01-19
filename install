@@ -1,0 +1,18 @@
+#!/bin/sh
+echo "Sam Version 0.1"
+echo "For multiple word queries use underscore in place of space"
+echo "Installing command line utility dafaq and whats"
+sudo cp ./dafaq /usr/bin/dafaq
+sudo cp ./dafaq /usr/bin/whats
+echo "."
+echo "."
+echo "."
+echo "."
+echo "."
+echo "."
+echo "."
+echo "."
+echo "Installed"
+echo "You can use both dafaq or whats interchangeably."
+echo "Author : Karan Rajpal"
+echo "\n"

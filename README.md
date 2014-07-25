@@ -1,4 +1,4 @@
-To install dafaq, follow the instructions
+To install whats, follow the instructions
 
 Non-Mac System
 1)Open up the file dafaq in your favorite text editor
